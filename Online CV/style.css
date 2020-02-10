@@ -1,0 +1,8 @@
+#h1{text-align:center; font-size:60;font-family:courier}
+#image{text-align:center}
+body{
+	font-family:courier;
+	font-size:100%;
+	background-image:url('background.jpg');
+}
+td{text-align:center-right}
